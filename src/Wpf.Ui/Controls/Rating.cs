@@ -27,7 +27,7 @@ public class Rating : System.Windows.Controls.ContentControl
     /// </summary>
     public static readonly DependencyProperty IconProperty = DependencyProperty.Register(nameof(Icon),
         typeof(Common.SymbolRegular), typeof(Rating),
-        new PropertyMetadata(Common.SymbolRegular.Star28));
+        new PropertyMetadata(Common.SymbolRegular.Heart24));
 
     /// <summary>
     /// User rating.

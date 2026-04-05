@@ -23,14 +23,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Fonts\FiraCode-Regular.ttf" />
+    <None Remove="Fonts\FiraCode-Regular.woff2" />
     <None Remove="Fonts\FluentSystemIcons-Filled.ttf" />
     <None Remove="Fonts\FluentSystemIcons-Regular.ttf" />
     <None Remove="Fonts\SegoeFluentIcons.ttf" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Fonts\FiraCode-Regular.ttf" />
+    <Resource Include="Fonts\FiraCode-Regular.woff2" />
     <Resource Include="Fonts\FluentSystemIcons-Filled.ttf" />
     <Resource Include="Fonts\FluentSystemIcons-Regular.ttf" />
   </ItemGroup>
